@@ -1,2 +1,3 @@
-# projectgloria
+# Project Gloria
 Upcoming FPS
+
